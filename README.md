@@ -5,7 +5,6 @@
     - Binary (for binary codes):
         - Trans_Long (code that classifies images either Transversal or Longitudinal):
             - Metrics. This folder includes all the metrics calculated. The relevant metrics are from model 8
-            - Models_CNN_trans_long. This folder contains savebacks of all of the models tried in the project. The final model is model 8!!
         - BGF (code that classifies wether images are Bad, Good or Fair):
             - Filters:
                 - Trans. The relevant model is 7th.
@@ -30,4 +29,4 @@
     - Segmentation
     - Diagnostic
 
-- Data folder contains all of the images & ROIs divided in folders. There's also a json_codes folder where the codes to extract the json from the diagnostic excel are.
+- Data folder contains a json_codes folder where the codes to extract the json from the diagnostic excel are.
