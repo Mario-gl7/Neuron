@@ -1,5 +1,5 @@
 # Neuron
-- The project is divides in three folders: Identifiacion, Segmentation, Diagnostic and Clinical tests:
+- The project is divided in three folders: Identifiacion, Segmentation, Diagnostic and Clinical tests:
   
 - Identification folder is divided into:
     - Binary (for binary codes):
