@@ -1,0 +1,472 @@
+[
+    {
+        "PACIENTE": 1,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 1,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 2,
+        "MANO": 1,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 2,
+        "MANO": 2,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 3,
+        "MANO": 1,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 3,
+        "MANO": 2,
+        "DIAGNOSTICO": 2
+    },
+    {
+        "PACIENTE": 4,
+        "MANO": 1,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 4,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 5,
+        "MANO": 1,
+        "DIAGNOSTICO": 2
+    },
+    {
+        "PACIENTE": 5,
+        "MANO": 2,
+        "DIAGNOSTICO": 2
+    },
+    {
+        "PACIENTE": 6,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 7,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 8,
+        "MANO": 1,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 8,
+        "MANO": 2,
+        "DIAGNOSTICO": 2
+    },
+    {
+        "PACIENTE": 9,
+        "MANO": 1,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 9,
+        "MANO": 2,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 10,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 10,
+        "MANO": 2,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 11,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 11,
+        "MANO": 2,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 12,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 12,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 13,
+        "MANO": 1,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 13,
+        "MANO": 2,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 14,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 14,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 15,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 15,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 16,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 16,
+        "MANO": 2,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 17,
+        "MANO": 1,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 17,
+        "MANO": 2,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 18,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 18,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 19,
+        "MANO": 1,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 19,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 20,
+        "MANO": 1,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 20,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 21,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 21,
+        "MANO": 2,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 22,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 23,
+        "MANO": 1,
+        "DIAGNOSTICO": 2
+    },
+    {
+        "PACIENTE": 23,
+        "MANO": 2,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 24,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 24,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 25,
+        "MANO": 2,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 26,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 26,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 27,
+        "MANO": 1,
+        "DIAGNOSTICO": 2
+    },
+    {
+        "PACIENTE": 27,
+        "MANO": 2,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 28,
+        "MANO": 1,
+        "DIAGNOSTICO": 2
+    },
+    {
+        "PACIENTE": 28,
+        "MANO": 2,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 29,
+        "MANO": 1,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 29,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 30,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 30,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 32,
+        "MANO": 2,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 34,
+        "MANO": 1,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 34,
+        "MANO": 2,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 35,
+        "MANO": 1,
+        "DIAGNOSTICO": 2
+    },
+    {
+        "PACIENTE": 35,
+        "MANO": 2,
+        "DIAGNOSTICO": 2
+    },
+    {
+        "PACIENTE": 36,
+        "MANO": 1,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 36,
+        "MANO": 2,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 37,
+        "MANO": 2,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 38,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 38,
+        "MANO": 2,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 39,
+        "MANO": 1,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 39,
+        "MANO": 2,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 40,
+        "MANO": 1,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 40,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 41,
+        "MANO": 1,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 41,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 42,
+        "MANO": 1,
+        "DIAGNOSTICO": 2
+    },
+    {
+        "PACIENTE": 42,
+        "MANO": 2,
+        "DIAGNOSTICO": 2
+    },
+    {
+        "PACIENTE": 43,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 43,
+        "MANO": 2,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 44,
+        "MANO": 1,
+        "DIAGNOSTICO": 2
+    },
+    {
+        "PACIENTE": 44,
+        "MANO": 2,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 45,
+        "MANO": 1,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 45,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 46,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 46,
+        "MANO": 2,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 47,
+        "MANO": 1,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 47,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 48,
+        "MANO": 1,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 48,
+        "MANO": 2,
+        "DIAGNOSTICO": 2
+    },
+    {
+        "PACIENTE": 49,
+        "MANO": 1,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 49,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 50,
+        "MANO": 1,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 50,
+        "MANO": 2,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 51,
+        "MANO": 1,
+        "DIAGNOSTICO": 1
+    },
+    {
+        "PACIENTE": 51,
+        "MANO": 2,
+        "DIAGNOSTICO": 0
+    },
+    {
+        "PACIENTE": 52,
+        "MANO": 1,
+        "DIAGNOSTICO": 3
+    },
+    {
+        "PACIENTE": 52,
+        "MANO": 2,
+        "DIAGNOSTICO": 1
+    }
+]

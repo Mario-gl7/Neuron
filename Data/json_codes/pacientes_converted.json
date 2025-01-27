@@ -1,0 +1,378 @@
+[
+    {
+        "paciente": "001A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "001B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "002A",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "002B",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "003A",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "003B",
+        "diagnostico": 2
+    },
+    {
+        "paciente": "004A",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "004B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "005A",
+        "diagnostico": 2
+    },
+    {
+        "paciente": "005B",
+        "diagnostico": 2
+    },
+    {
+        "paciente": "006A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "007A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "008A",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "008B",
+        "diagnostico": 2
+    },
+    {
+        "paciente": "009A",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "009B",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "010A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "010B",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "011A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "011B",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "012A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "012B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "013A",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "013B",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "014A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "014B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "015A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "015B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "016A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "016B",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "017A",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "017B",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "018A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "018B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "019A",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "019B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "020A",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "020B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "021A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "021B",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "022A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "023A",
+        "diagnostico": 2
+    },
+    {
+        "paciente": "023B",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "024A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "024B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "025B",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "026A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "026B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "027A",
+        "diagnostico": 2
+    },
+    {
+        "paciente": "027B",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "028A",
+        "diagnostico": 2
+    },
+    {
+        "paciente": "028B",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "029A",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "029B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "030A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "030B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "032B",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "034A",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "034B",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "035A",
+        "diagnostico": 2
+    },
+    {
+        "paciente": "035B",
+        "diagnostico": 2
+    },
+    {
+        "paciente": "036A",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "036B",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "037B",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "038A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "038B",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "039A",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "039B",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "040A",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "040B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "041A",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "041B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "042A",
+        "diagnostico": 2
+    },
+    {
+        "paciente": "042B",
+        "diagnostico": 2
+    },
+    {
+        "paciente": "043A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "043B",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "044A",
+        "diagnostico": 2
+    },
+    {
+        "paciente": "044B",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "045A",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "045B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "046A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "046B",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "047A",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "047B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "048A",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "048B",
+        "diagnostico": 2
+    },
+    {
+        "paciente": "049A",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "049B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "050A",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "050B",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "051A",
+        "diagnostico": 1
+    },
+    {
+        "paciente": "051B",
+        "diagnostico": 0
+    },
+    {
+        "paciente": "052A",
+        "diagnostico": 3
+    },
+    {
+        "paciente": "052B",
+        "diagnostico": 1
+    }
+]
